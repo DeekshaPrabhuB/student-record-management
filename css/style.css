@@ -3,23 +3,24 @@ body{
 }
 
 .container{
+    margin: auto;
     width: 586px;
-    background: #fff;
-    margin-left: 165px;
 }
 .appointment-form{
-    padding: 50px 60px 70px 60px;
+       background: #fff;
+       border-radius: 2%;
+       padding: 30px;
 }
-.main{
-    padding: 60px 0;
+h2{
+    text-align: center;
+    margin:20px 0; 
 }
 input{
     width: 100%;
-    display: block;
     border: none;
     border-bottom: 2px solid #ebebeb;
     padding: 5px 0;
     color: #222;
-    margin-bottom: 31px;
+    margin-bottom: 20px;
     font-family: 'Roboto Slab';
 }
