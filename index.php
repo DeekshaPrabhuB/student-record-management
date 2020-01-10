@@ -18,7 +18,7 @@
 
     <div class="container">
     <form method="POST" action="server.php" class="appointment-form" id="appointment-form">
-        <h2>education appointment form</h2>
+        <h2>Student Register Form</h2>
         <div class="form-group-1">
 
     <input type="text" name="fname" placeholder="First name" required /><br>
